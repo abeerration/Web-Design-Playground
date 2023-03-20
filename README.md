@@ -1,3 +1,3 @@
 # Web-Design-Playground
 
-Assorted web design code snippets, design experiments, proof-of-concepts, etc
+Web design code snippets, examples, design experiments, proof-of-concepts, etc
