@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <form action="" method="POST">
+
+      <h1>Wanna order a pizza? Fill the form.</h1>
+
+      <!-- input -->
+      <label>Basics:</label>
+      <fieldset id="input_fieldset">
+        <label>Name:</label>
+        <input type="text" value="abeerration"><br><br>
+        <label>Email:</label>
+        <input type="email" placeholder="Your email" required><br><br>
+        <label>Phone:</label>
+        <input type="text" value="n/a" disabled>
+      </fieldset>
+
+      <br>
+
+      <!-- datepicker input -->
+      <label>Birthday (we need to know if you're too young for spicy):</label>
+      <fieldset id="date_fieldset">
+        <input type="date">
+      </fieldset>
+
+      <br>
+
+      <!-- radio buttons -->
+      <label>Sex (yes, you need to tell this to order a pizza somehow):</label><br>
+      <fieldset id="radio_fieldset">
+        <input type="radio" name="sex" checked>
+        <label>Male</label><br>
+
+        <input type="radio" name="sex">
+        <label>Female</label><br>
+
+        <input type="radio" name="sex">
+        <label>Other</label>
+      </fieldset>
+
+      <br>
+
+      <!-- checkboxes -->
+      <label>Deliver pizza to:</label><br>
+      <fieldset id="checkbox_fieldset">
+        <input type="checkbox" checked>
+        <label>Timbuktu</label><br>
+
+        <input type="checkbox">
+        <label>Antarctica</label><br>
+
+        <input type="checkbox" checked>
+        <label>Lapland</label>
+      </fieldset>
+
+      <br>
+
+      <!-- Misc -->
+      <label>Some additional info:</label><br>
+      <fieldset id="misc_fieldset">
+        <label>Your Photo:</label>
+        <input type="file"><br>
+
+        <label>Crust Color:</label>
+        <input type="color" value="#e97451"><br>
+
+        <label>Pizza Size:</label>
+        <input type="number"> inches<br>
+
+        <label>Delivery Time (d/m/t):</label>
+        <input type="number" name="day" min="1" max="31">
+        <input type="month">
+        <input type="time">
+
+      </fieldset>
+
+      <br>
+
+      <input type="submit" value="Submit Form">
+
+    </form>
+  </body>
+</html>
