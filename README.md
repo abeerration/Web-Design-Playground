@@ -6,7 +6,7 @@ Web design code snippets, examples, design experiments, proof-of-concepts, etc
 
 Some selected demos:
 
-## 1. Basic Web Design
+## <ins>1. Basic Web Design</ins>
 
 ### 1.1. HTML, CSS, JS
 
