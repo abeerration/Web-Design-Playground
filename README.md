@@ -8,7 +8,7 @@ Some selected demos:
 
 <hr>
 
-## 1. Basic Web Design
+## <ins>1. Basic Web Design</ins>
 
 ### 1.1. HTML, CSS, JS
 
