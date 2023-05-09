@@ -1,6 +1,9 @@
 <div align="center">
   <img src="banner.jpg" align="center"/>
-  <sub>Image by <a href="https://www.freepik.com/free-psd/user-interface-design-website-template_20548064.htm#&position=10&from_view=collections">Freepik</a></sub>
+  </sub>
+</div>
+<div align="left">
+  <sub>Image by <a href="https://www.freepik.com/free-psd/user-interface-design-website-template_20548064.htm#&position=10&from_view=collections">Freepik</a>
 </div>
 
 # Web Design Playground
