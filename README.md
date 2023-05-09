@@ -1,9 +1,9 @@
 # Web Design Playground
 
 <div align="center">
-  <img src="banner.jpg" align="center" />
+  <img src="banner.jpg" align="center">
+  <br>
 </div>
-
 
 Web design code snippets, examples, design experiments, proof-of-concepts, etc
 
