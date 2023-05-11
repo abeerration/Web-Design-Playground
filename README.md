@@ -1,6 +1,5 @@
-# Web Design Playground
-
 <div align="center">
+  <h1>Web Design Playground</h1>
   <img src="banner.jpg" align="center"/>
 </div>
 <div align="right">
