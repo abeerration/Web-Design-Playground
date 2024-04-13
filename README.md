@@ -3,9 +3,7 @@
   <img src="banner.jpg" align="center"/>
 </div>
 <div align="right">
-  <sub>
-    <a href="https://www.freepik.com/free-psd/user-interface-design-website-template_20548064.htm#&position=10&from_view=collections">Image</a> by Freepik
-  </sub>
+  <sub>Image by <a href="https://www.freepik.com/free-psd/user-interface-design-website-template_20548064.htm#&position=10&from_view=collections">Freepik</a></sub>
 </div>
 
 Web design code snippets, examples, design experiments, proof-of-concepts, etc
