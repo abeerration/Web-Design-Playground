@@ -16,7 +16,7 @@ Some selected demos:
 
 ## 1. Basic Web Design
 
-### 1.1. HTML, CSS, JS
+### [1.1. HTML, CSS, JS](https://github.com/abeerration/Web-Design-Playground/tree/main/demos/1.%20Basic%20Web%20Design/1.1.%20HTML%2C%20CSS%2C%20JS)
 
 ### [1.2. Box Model, Pseudo Selectors](https://abeerration.github.io/Web-Design-Playground/demos/1.%20Basic%20Web%20Design/1.2.%20Box%20Model,%20Pseudo%20Selectors)
 
